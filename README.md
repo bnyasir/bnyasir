@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=Abdulrahman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Future%20Cybersecurity%20Pro&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=Abdulrahman%20Yasir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Future%20Cybersecurity%20Pro&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Learning+Python+%26+Networking;Currently+exploring+the+world+of+CTFs;Every+system+has+a+weakness+%F0%9F%94%93" alt="Typing SVG" />
 
@@ -46,7 +46,7 @@
 ### 🎯 Currently Learning
 
 ```python
-class Abdulrahman:
+class AbdulrahmanYasir:
     def __init__(self):
         self.field = "Computer Science"
         self.goal = "Cybersecurity"
@@ -55,91 +55,3 @@ class Abdulrahman:
 
     def motto(self):
         return "Every system has a weakness — I'm learning to find it before someone else does."
-- 🌐 Learning **Networking** fundamentals
-- 🚩 Exploring **CTF platforms** (TryHackMe, HackTheBox) to sharpen my skills
-- 📫 Always open to connect and learn from others in the security community
-
-<hr>
-
-### 🛠️ Skills & Tools
-
-
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-
-
-
-
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-
-
-
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-
-
-
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat&logo=cisco&logoColor=white)
-
-
-
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-
-
-
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-
-
-
-
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
-
-
-
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
-
-
-<hr>
-
-### 🎯 Currently Learning
-
-```python
-class Abdulrahman:
-    def __init__(self):
-        self.field = "Computer Science"
-        self.goal = "Cybersecurity"
-        self.skills = ["Python (basics)", "Networking"]
-        self.currently_exploring = ["CTF Platforms", "Linux Security", "Network Security"]
-
-    def motto(self):
-        return "Every system has a weakness — I'm learning to find it before someone else does."<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-  
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
-
-</div>
-
