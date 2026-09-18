@@ -8,14 +8,18 @@
 
 <hr>
 
-### 🧑‍💻 About Me
+<div align="left">
 
-- 🎓 Studying **Computer Science**
-- 🔐 Passionate about diving into **Cybersecurity**
-- 🐍 Comfortable with the basics of **Python**
-- 🌐 Learning **Networking** fundamentals
-- 🚩 Exploring **CTF platforms** (TryHackMe, HackTheBox) to sharpen my skills
-- 📫 Always open to connect and learn from others in the security community
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=false&vCenter=true&width=400&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+About+Me..." alt="About Me Title" />
+
+</div>
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" valign="middle"/> Studying **Computer Science**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="22" valign="middle"/> Passionate about diving into **Cybersecurity**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="22" valign="middle"/> Comfortable with the basics of **Python**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20with%20Meridians.png" width="22" valign="middle"/> Learning **Networking** fundamentals
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Triangular%20Flag.png" width="22" valign="middle"/> Exploring **CTF platforms** (TryHackMe, HackTheBox) to sharpen my skills
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="22" valign="middle"/> Always open to connect and learn from others in the security community
 
 <hr>
 
