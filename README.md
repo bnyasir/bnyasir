@@ -17,8 +17,8 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" valign="middle"/> Studying **Computer Science**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="22" valign="middle"/> Passionate about diving into **Cybersecurity**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="22" valign="middle"/> Comfortable with the basics of **Python**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20with%20Meridians.png" width="22" valign="middle"/> Learning **Networking** fundamentals
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Triangular%20Flag.png" width="22" valign="middle"/> Exploring **CTF platforms** (TryHackMe, HackTheBox) to sharpen my skills
+- 🌐 Learning **Networking** fundamentals
+- 🚩 Exploring **CTF platforms** (TryHackMe, HackTheBox) to sharpen my skills
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="22" valign="middle"/> Always open to connect and learn from others in the security community
 
 <hr>
@@ -28,7 +28,8 @@
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-yasir-8992a9384)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahman.y.satti@gmail.com)
+[![Website](https://img.shields.io/badge/My%20Website-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://bnyasir.github.io)
 
 </div>
 
@@ -59,3 +60,4 @@ class AbdulrahmanYasir:
 
     def motto(self):
         return "Every system has a weakness — I'm learning to find it before someone else does."
+```
